@@ -58,7 +58,7 @@
 }
 
 .is-review-tag {
-  font-size: .6em;
+  font-size: 9px;
   line-height: 1em;
   letter-spacing: 1px;
 }
@@ -80,5 +80,8 @@
   .mobile-margins {
       padding-left:5% ;
       padding-right:5% ;
+  }
+  .is-skill-tag {
+    font-size: 27px;
   }
 }
