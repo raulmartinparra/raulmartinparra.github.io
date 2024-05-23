@@ -89,7 +89,10 @@
       padding-right:5% ;
   }
   .is-skill-tag {
-    font-size: 25px;
+    font-size: 22px;
+  }
+  .align-header-left{
+    align-items: flex-start;
   }
 }
 
